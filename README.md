@@ -72,7 +72,7 @@ There are two signaling mechanisms in place - "smtplib/imap" and webmail. "smtpl
 4. By default, webmail singalling mechanism is used. This can be changed to "smtp/imap" based signaling in [client.c](https://github.com/rkc007/DecoyRKC/blob/master/client/c/client.c#L155) by changing 'client_email.py' to '[smtp_client_send.py](https://github.com/rkc007/DecoyRKC/blob/master/client/smtp/smtp_client_send.py)'
 
 #### As a Proxy
-1. `cd <repo_path>/main/proxy/`
+1. `cd <repo_path>/proxy/`
 2. `sudo ./center.o`
 
 #### As a Controller
