@@ -10,6 +10,10 @@ This major components of this repository are:
 3. _Covert-destination_, a website, which client **really** wants to visit.
 4. _Proxy_, a machine, who proxies client's traffic and fetches covert-destination for it.
 5. _SDN Controller_, which installs relevant redirection rules on SDN switches.
+
+## Files
+1. Paper : https://cs.slu.edu/~esposito/teaching/3550/reports/RahulChauhan-Report-S20.pdf
+2. Presentation: https://www.youtube.com/watch?v=kv6sg16MRG0&feature=youtu.be
                                                              
 
 ## Getting Started
